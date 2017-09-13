@@ -6,7 +6,7 @@ import javax.persistence.Id;
 import java.time.LocalDateTime;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import nu.ffsbio.showings.model.sf.Item;
+import nu.ffsbio.showings.model.sf.SfMovie;
 
 @Entity
 public class Movie {
@@ -27,11 +27,11 @@ public class Movie {
     protected Movie() {
     }
 
-    public Movie(Item item) {
-        this.ncgId = item.getNcgId();
-        this.slug = item.getSlug();
-        this.title = item.getTitle();
-        this.releaseDate = item.getReleaseDate();
+    public Movie(SfMovie movie) {
+        this.ncgId = movie.getNcgId();
+        this.slug = movie.getSlug();
+        this.title = movie.getTitle();
+        this.releaseDate = movie.getReleaseDate();
     }
 
     public String getNcgId() {

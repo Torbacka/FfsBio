@@ -9,3 +9,5 @@ images/
 # Maven
 target/
 log/
+
+node_modules/

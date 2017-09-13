@@ -1,4 +1,4 @@
-package nu.ffsbio.showings.jobs;
+package nu.ffsbio.showings.tasks;
 
 import javax.imageio.ImageIO;
 
@@ -17,6 +17,5 @@ public class SfDataCollectorTest {
         BufferedImage img = ImageIO.read(new File("images/24-veckor1.jpg"));
         BufferedImage scaledImg = Scalr.resize(img, Scalr.Method.ULTRA_QUALITY,
                         240,360, Scalr.OP_ANTIALIAS);
-        ImageIo.write
     }
 }
