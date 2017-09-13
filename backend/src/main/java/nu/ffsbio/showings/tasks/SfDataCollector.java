@@ -74,7 +74,7 @@ public class SfDataCollector {
             LOG.error("Failed to parse json: ", e);
         }
         double initTimeSeconds = (System.currentTimeMillis() - startTime)/1000.0;
-        LOG.info("Initialization finished it took: " +  initTimeSeconds + " seconds");
+        LOG.info("Initialization finished in " +  initTimeSeconds + " seconds");
     }
 
     private String getRepose(String url) {
