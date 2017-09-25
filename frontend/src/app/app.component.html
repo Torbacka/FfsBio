@@ -1,7 +1,8 @@
-<h1>{{title}}</h1>
-<h2>My Heroes</h2>
-<ul class="movies">
-  <li *ngFor="let movie of releasedMovies">
-    <img src="assets/images/{{movie.slug}}" alt="{{movie.title}}">
-  </li>
-</ul>
+<div class="container"  class="container">
+  <div class="grid">
+    <div *ngFor="let movie of releasedMovies; let i = index" class="cell">
+      <img class="responsive-image " src="assets/images/{{movie.slug}}" alt="{{movie.title}}">
+      <span id="movie-title">{{movie.title}}</span>
+    </div>
+  </div>
+</div>
