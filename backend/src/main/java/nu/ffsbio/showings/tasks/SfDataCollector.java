@@ -53,14 +53,15 @@ public class SfDataCollector {
     public void populateCache() {
         long startTime = System.currentTimeMillis();
         try {
+
             //Cleanup all old entries
             movieRepository.deleteAll();
 
             String repose = getRepose(SF_MOVIE_URL);
             ObjectMapper objectMapper = new ObjectMapper();
             objectMapper.registerModule(new JavaTimeModule());
-            List<SfMovie> movies = objectMapper.readValue(repose, new TypeReference<List<SfMovie>>(){});
 
+            List<SfMovie> movies = objectMapper.readValue(repose, new TypeReference<List<SfMovie>>() {});
             movies.parallelStream()
                             .forEach(this::saveData);
 

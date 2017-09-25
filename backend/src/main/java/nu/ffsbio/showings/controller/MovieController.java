@@ -1,6 +1,7 @@
 package nu.ffsbio.showings.controller;
 
 import java.time.LocalDateTime;
+import java.util.Comparator;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
@@ -35,6 +36,7 @@ public class MovieController {
 
         return StreamSupport.stream(movieRepository.findAll().spliterator(), false)
                         .filter(movie -> movie.getReleaseDate().isBefore(now))
+                        .sorted(Comparator.comparing(Movie::getTitle, String::compareTo))
                         .collect(Collectors.toList());
     }
 
@@ -44,6 +46,7 @@ public class MovieController {
 
         return StreamSupport.stream(movieRepository.findAll().spliterator(), false)
                         .filter(movie -> movie.getReleaseDate().isAfter(now))
+                        .sorted(Comparator.comparing(Movie::getReleaseDate, LocalDateTime::compareTo))
                         .collect(Collectors.toList());
     }
 }

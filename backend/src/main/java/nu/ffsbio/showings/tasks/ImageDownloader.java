@@ -21,7 +21,7 @@ public class ImageDownloader {
     private static Logger LOG = LoggerFactory.getLogger(ImageDownloader.class);
 
     void download(String imageUrl, String filmName) {
-        String filePath = "../images/" + filmName;
+        String filePath = "../frontend/src/assets/images/" + filmName;
         File file = new File(filePath);
         if (file.exists()) {
             return;
