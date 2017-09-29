@@ -1,0 +1,2418 @@
+[
+  {
+    "ncgId": "NCG953412",
+    "title": "50 vårar",
+    "releaseDate": "2017-10-13T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/f7ac074caff04da3908d0aca10f58dcd.jpg?width=240&version=31D408DE5A6DA096F4EEC9287F31BDBD&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "50-varar"
+  },
+  {
+    "ncgId": "NCG626931",
+    "title": "Aida - Kungliga Operan",
+    "releaseDate": "2018-03-17T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d51c2d931705421683aeb285c1497286.jpg?width=240&version=9DF0E6A6E90FCFC750EC9176DA71602C&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "aida-kungliga-operan"
+  },
+  {
+    "ncgId": "NCG933900",
+    "title": "Alfons leker Einstein",
+    "releaseDate": "2016-04-15T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a3a6e5b22081431a8865430fb8db56f6.jpg?width=240&version=6B172605DE706E22DB323C7BD1491068&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "alfons-leker-einstein"
+  },
+  {
+    "ncgId": "NCG100504",
+    "title": "Alice i Underlandet - Balett från Royal Ballet (Inspelad)",
+    "releaseDate": "2017-11-06T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/6acec59af4024c5c8750c3a4d2ede0c1.jpg?width=240&version=0C4432A88DC014815349A6845F7BB9CB&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "alice-i-underlandet-balett-fran-royal-ballet-inspelad"
+  },
+  {
+    "ncgId": "NCG527430",
+    "title": "Alice i Underlandet - Balett från Royal Opera House (Live)",
+    "releaseDate": "2017-10-26T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/c1e8f9afc00c40c9947b7bdb0674db3c.jpg?width=240&version=0C4432A88DC014815349A6845F7BB9CB&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "alice-i-underlandet-balett-fran-royal-opera-house-live"
+  },
+  {
+    "ncgId": "NCG506757",
+    "title": "All Inclusive",
+    "releaseDate": "2017-11-10T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/b1ffd965278242b99c07ab4b766a5c6a.jpg?width=240&version=5AC9335C5BA292987AC3584086E4DB04&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "all-inclusive"
+  },
+  {
+    "ncgId": "NCG154986",
+    "title": "Alpha",
+    "releaseDate": "2018-03-02T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/9325e2ea282f43e9b4b25cbc93121514.jpg?width=240&version=F3ADF2BB120CD56654884BAD8A2EE3AA&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "alpha"
+  },
+  {
+    "ncgId": "NCG115084",
+    "title": "American Assassin",
+    "releaseDate": "2017-09-15T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/82a7c8804098444293c3f1b741606de9.jpg?width=240&version=1B562B8D96F83E8FB082CD8EF3B14E6B&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "american-assassin"
+  },
+  {
+    "ncgId": "NCG241818",
+    "title": "American Made",
+    "releaseDate": "2017-08-25T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/e800f20e6ba74020a690b8ee3381791d.jpg?width=240&version=30EB71E314257CFCD5012583D3D2CB26&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "american-made"
+  },
+  {
+    "ncgId": "NCG725933",
+    "title": "Annabelle 2: Creation",
+    "releaseDate": "2017-08-09T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/8e7b3150f0014151b800d54ae686e2f2.jpg?width=240&version=B98967F27508053BFC28C361C9FEF26A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "annabelle-2-creation"
+  },
+  {
+    "ncgId": "NCG479873",
+    "title": "Askungen - Kungliga Operan",
+    "releaseDate": "2018-02-03T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a7d4155d75084c5a8e85e02b64cf6fa6.jpg?width=240&version=10B87EFDBD087B7FE263D838355A851C&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "askungen-kungliga-operan"
+  },
+  {
+    "ncgId": "NCG980191",
+    "title": "Askungen - MET Operan",
+    "releaseDate": "2018-04-28T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/23c61ed5abb447999c9bcd266d96637b.jpg?width=240&version=5F0F15F0B8BDB5F77F9D80695F0FFF94&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "askungen-met-operan"
+  },
+  {
+    "ncgId": "NCG128209",
+    "title": "Avicii: True Stories",
+    "releaseDate": "2017-10-26T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/1198479b2c2a44a4a850d073f6245ef5.jpg?width=240&version=E112497FEF8F9C08A669DD7027ED7C01&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "avicii-true-stories"
+  },
+  {
+    "ncgId": "NCG515425",
+    "title": "Baby Driver",
+    "releaseDate": "2017-07-26T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/6566416164724f97bf4ad3cbac905f99.jpg?width=240&version=B37633D04683220A5B0376F146C15E97&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "baby-driver"
+  },
+  {
+    "ncgId": "NCG752012",
+    "title": "Baby-bossen",
+    "releaseDate": "2017-04-07T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a075472483ea4c99b3884db18190c329.jpg?width=240&version=39E48CA019589D25CDC48513865305C7&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "baby-bossen"
+  },
+  {
+    "ncgId": "NCG750816",
+    "title": "Bad Moms 2",
+    "releaseDate": "2017-11-03T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/ebc0c110a61c4eedb1b5186ff16874d7.jpg?width=240&version=6F1CDC3D1F6A65235521F8B22C56EB6A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "bad-moms-2"
+  },
+  {
+    "ncgId": "NCG392290",
+    "title": "Ballerinan och uppfinnaren",
+    "releaseDate": "2017-09-29T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/cee5c1274d0c45a8858880d57635bf37.jpg?width=240&version=36541DCC0463B2907C9675BE589D6369&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "ballerinan-och-uppfinnaren"
+  },
+  {
+    "ncgId": "NCG306472",
+    "title": "Bamse och häxans dotter",
+    "releaseDate": "2016-12-25T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/552bbf4d851243928a87d8689020bc76.jpg?width=240&version=603FE40B611277D1C7D82DF69EF6A024&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "bamse-och-haxans-dotter"
+  },
+  {
+    "ncgId": "NCG544034",
+    "title": "Barnens biodag",
+    "releaseDate": "2017-10-15T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/7c53fa6dec0248f0acc7dbf623431b8c.png?width=240&version=808F01E74FE3E1BBC8867BCDF76186AC&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "barnens-biodag"
+  },
+  {
+    "ncgId": "NCG755240",
+    "title": "Barnmorskan",
+    "releaseDate": "2017-08-11T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/2ff39ce6ad80483ba150db0644810a02.jpg?width=240&version=35C2D5B67806B4EE10400DA1148B98C0&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "barnmorskan"
+  },
+  {
+    "ncgId": "NCG576149",
+    "title": "Bigfoot Junior",
+    "releaseDate": "2017-07-28T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/584befb6cc1f4af3921071e72eaaca9e.jpg?width=240&version=FAC507BEF1E5A2FD0448BC0F7E312648&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "bigfoot-junior"
+  },
+  {
+    "ncgId": "NCG501597",
+    "title": "Bilar 3",
+    "releaseDate": "2017-09-01T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/52dfb0c174df43dd88d3c9347b7b164a.jpg?width=240&version=1752C22BA55359BFAEB13DDF129DE5F8&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "bilar-3"
+  },
+  {
+    "ncgId": "NCG610461",
+    "title": "Black Panther",
+    "releaseDate": "2018-02-14T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/dd034ae750614e8299b6d357c12c3ad3.jpg?width=240&version=62DFE249890E80CE286C3ED1733D9D95&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "black-panther"
+  },
+  {
+    "ncgId": "NCG150462",
+    "title": "Black Sabbath – The End Of The End – Konsert",
+    "releaseDate": "2017-09-28T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/f6b53a5cd01a4e1499edc305dfe6202f.jpg?width=240&version=C920A3F111F484352B58D1EAC00DE271&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "black-sabbath-the-end-of-the-end-konsert"
+  },
+  {
+    "ncgId": "NCG953963",
+    "title": "Blade Runner 2049",
+    "releaseDate": "2017-10-05T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/69b5401aa8d84770b200cd0d09aa755b.jpg?width=240&version=14F1FC9588C88AEFC1E475BB0A36AA3C&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "blade-runner-2049"
+  },
+  {
+    "ncgId": "NCG813794",
+    "title": "Bobbi Jene",
+    "releaseDate": "2017-10-06T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/62a09a4c58404aecb447893f46701a74.jpg?width=240&version=6228D9632D2C2F9B784306C894CF1865&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "bobbi-jene"
+  },
+  {
+    "ncgId": "NCG201227",
+    "title": "Borg",
+    "releaseDate": "2017-09-08T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/7265f398a505430d87ac08c1cd59e04d.jpg?width=240&version=D69E9613EEC7602D0836AA1501854806&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "borg"
+  },
+  {
+    "ncgId": "NCG334188",
+    "title": "Breathe",
+    "releaseDate": "2017-11-24T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/06bd27080f33424fb6d1e3642ca09bd0.jpg?width=240&version=C0EBF5A5ADE2A1623BD492C8E1B2A3A3&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "breathe"
+  },
+  {
+    "ncgId": "NCG830705",
+    "title": "Carmen - Opera från Royal Opera House (Inspelad)",
+    "releaseDate": "2018-03-12T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/92c8bdad6556407d8caaf37f93b03c52.jpg?width=240&version=88EF882D790B0C10573D705D05BB3DFA&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "carmen-opera-fran-royal-opera-house-inspelad"
+  },
+  {
+    "ncgId": "NCG211272",
+    "title": "Carmen - Opera från Royal Opera House (Live)",
+    "releaseDate": "2018-03-06T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/b0ae592f5f724292a4c0573d1e29219a.jpg?width=240&version=88EF882D790B0C10573D705D05BB3DFA&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "carmen-opera-fran-royal-opera-house-live"
+  },
+  {
+    "ncgId": "NCG334978",
+    "title": "City of Ghosts",
+    "releaseDate": "2017-09-29T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/dc3c4f97265249fba4681f9545ed6a6b.jpg?width=240&version=91783D5E8F99F9EF010F2F805F3AA5F0&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "city-of-ghosts"
+  },
+  {
+    "ncgId": "NCG920180",
+    "title": "Cloudboy",
+    "releaseDate": "2017-10-07T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/3226f382e733435d9b99bc6f116b056c.jpg?width=240&version=FAFFFEFE3D0E0A16782591AF3C012A67&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "cloudboy"
+  },
+  {
+    "ncgId": "NCG535625",
+    "title": "Coco",
+    "releaseDate": "2018-02-02T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d861197bd4d54f1a96e13a9b9203fdab.jpg?width=240&version=B5C0429BAA912FE166B79AABE208A9A5&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "coco"
+  },
+  {
+    "ncgId": "NCG174775",
+    "title": "Cosi fan tute - MET Operan",
+    "releaseDate": "2018-03-31T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a1b5653cce464972a113699ceba87c29.jpg?width=240&version=560E7BD46ABE28E812983BD08B248E38&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "cosi-fan-tute-met-operan"
+  },
+  {
+    "ncgId": "NCG770777",
+    "title": "Daddy's Home 2",
+    "releaseDate": "2017-11-24T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/22854c815c1941b0a887fb89f688db22.jpg?width=240&version=9495966838EEA70388FC9BB96EC9C809&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "daddys-home-2"
+  },
+  {
+    "ncgId": "NCG235679",
+    "title": "De bedragna",
+    "releaseDate": "2017-09-01T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/1cf6b77020b64eb69f3efa33e32926e7.jpg?width=240&version=3B3F21A3C516BBB5675BDBDE789CD533&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "de-bedragna"
+  },
+  {
+    "ncgId": "NCG507555",
+    "title": "Death wish",
+    "releaseDate": "2017-12-08T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/9496ed95c6774b918cd9ac44ee6eab55.jpg?width=240&version=F493D2BC9F1FAC985D16717A7E903DDE&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "death-wish"
+  },
+  {
+    "ncgId": "NCG151157",
+    "title": "Den stora nötkuppen 2",
+    "releaseDate": "2017-10-27T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/34aeadf93e834df0968de834de79fd84.jpg?width=240&version=51D1D3ACF97214704EA72DD24F035C24&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "den-stora-notkuppen-2"
+  },
+  {
+    "ncgId": "NCG580992",
+    "title": "Det",
+    "releaseDate": "2017-09-13T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d391c306d1204bb5b2cb505f593f6f02.jpg?width=240&version=A97A47200D28094B742AA338C51D8523&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "det"
+  },
+  {
+    "ncgId": "NCG671217",
+    "title": "Dracula - Kungliga Operan",
+    "releaseDate": "2017-11-03T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/b4f9bb30be1141e4b41ba9bd516abd58.jpg?width=240&version=61B611AA643FC77E61765AA4DF7586C1&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "dracula-kungliga-operan"
+  },
+  {
+    "ncgId": "NCG199854",
+    "title": "Dumma mej 3",
+    "releaseDate": "2017-06-28T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d45d620b3e44471886eedfd3506825ad.jpg?width=240&version=D5ED1E9CFD84D2113B9776D4951F0DCB&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "dumma-mej-3"
+  },
+  {
+    "ncgId": "NCG163165",
+    "title": "Dunkirk",
+    "releaseDate": "2017-07-19T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a22a86561989457597233c78ab8742fd.jpg?width=240&version=BABF8CD7C289365FB65DC70094A84FA7&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "dunkirk"
+  },
+  {
+    "ncgId": "NCG364431",
+    "title": "Electric Banana Band - En Familjeföreställning",
+    "releaseDate": "2017-09-30T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/f1d2ba090b5c444cb49a01fe85cb1545.jpg?width=240&version=5AF6B52E7155FCF89F5DAD47711D8313&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "electric-banana-band-en-familjeforestallning"
+  },
+  {
+    "ncgId": "NCG950584",
+    "title": "En kvinnas liv",
+    "releaseDate": "2017-09-29T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/3210ea0e4ab744ddb0b1d9c62500031b.jpg?width=240&version=0B90B8977572E96C1AD5C6C9B2CB6AC0&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "en-kvinnas-liv"
+  },
+  {
+    "ncgId": "NCG628846",
+    "title": "En kvinnas martyrium - Klassiker",
+    "releaseDate": "2017-11-07T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/ea4cad81c1374b728ee1c424e580e0e3.jpg?width=240&version=33D07A08E2620057FA8166521119C83D&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "en-kvinnas-martyrium-klassiker"
+  },
+  {
+    "ncgId": "NCG850310",
+    "title": "En obekväm uppföljare",
+    "releaseDate": "2017-11-17T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/e8ea3e3a7a694a58a19c10597851a63f.jpg?width=240&version=43CFD197C44E9138EE1449E5B06577DB&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "en-obekvam-uppfoljare"
+  },
+  {
+    "ncgId": "NCG516059",
+    "title": "En Vintersaga - Balett från Royal Opera House (Inspelad)",
+    "releaseDate": "2018-03-05T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/b03724e311c446b1aab00ae74f0b78c2.jpg?width=240&version=418E9E13349CE8511B982164BE300353&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "en-vintersaga-balett-fran-royal-opera-house-inspelad"
+  },
+  {
+    "ncgId": "NCG483330",
+    "title": "En Vintersaga - Balett från Royal Opera House (Live)",
+    "releaseDate": "2018-02-28T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d3f5d8004bed4f9397623ed693ee0d17.jpg?width=240&version=418E9E13349CE8511B982164BE300353&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "en-vintersaga-balett-fran-royal-opera-house-live"
+  },
+  {
+    "ncgId": "NCG134983",
+    "title": "Ett veck i tiden",
+    "releaseDate": "2018-03-09T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/0563f75c48e3415b897ef6464d321397.jpg?width=240&version=56BA1624176260201960ED1319FE5B20&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "ett-veck-i-tiden"
+  },
+  {
+    "ncgId": "NCG907972",
+    "title": "Euphoria",
+    "releaseDate": "2018-02-02T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/8791a6e1b55f4a5c901d9894b2b7fc61.jpg?width=240&version=782FF973867DEF253E7F5FF4E3B28730&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "euphoria"
+  },
+  {
+    "ncgId": "NCG547004",
+    "title": "Farväl Europa",
+    "releaseDate": "2017-08-11T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/ea7f7cd3b58f48d6862bb5412c7d6b1b.jpg?width=240&version=15C12F9DFC7475DEE0E93AC7E1DA5BAA&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "farval-europa"
+  },
+  {
+    "ncgId": "NCG453080",
+    "title": "Film och samtal: En man som heter Ove med Bahar Pars",
+    "releaseDate": "2017-10-21T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/b781989da1a64a3b9d675a1622bb35e8.jpg?width=240&version=8038306EF4772C1EF263208D507FE97C&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "film-och-samtal-en-man-som-heter-ove-med-bahar-pars"
+  },
+  {
+    "ncgId": "NCG464017",
+    "title": "Film och samtal: Falling Into Paradise med Branka Katic",
+    "releaseDate": "2017-10-21T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a46c4d77e2214a0fa8ffafc038fdcc5b.jpg?width=240&version=791EAC1D21BF5A575DC90155AB0F28A5&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "film-och-samtal-falling-into-paradise-med-branka-katic"
+  },
+  {
+    "ncgId": "NCG576114",
+    "title": "Film och samtal: Gud taler ud med Lisa Nilsson",
+    "releaseDate": "2017-10-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/652f8882f8be4c839f3a35f5581a7faa.jpg?width=240&version=0B18CA9ACB31B2EA692F6A3910AB34F6&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "film-och-samtal-gud-taler-ud-med-lisa-nilsson"
+  },
+  {
+    "ncgId": "NCG821356",
+    "title": "Film och samtal: Mahbas (Solitaire) med Julia Kassar",
+    "releaseDate": "2017-10-21T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/8a9819d7fa1a4f42888cc94b9cd39d40.jpg?width=240&version=E2A250B708085B6886C1D5B340BD19C1&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "film-och-samtal-mahbas-solitaire-med-julia-kassar"
+  },
+  {
+    "ncgId": "NCG321480",
+    "title": "Film och samtal: The Bride Came C.O.D. med Kathryn Sermak",
+    "releaseDate": "2017-10-20T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/bd08fe01b8c54da188285663f7333315.jpg?width=240&version=9B7A82E93107134F8EA8EEBD548FED89&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "film-och-samtal-the-bride-came-cod-med-kathryn-sermak"
+  },
+  {
+    "ncgId": "NCG536772",
+    "title": "Film och samtal: The Broken Landlord (Zûgürt Aga) med Erdal Özyağcılar",
+    "releaseDate": "2017-10-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/9fdf084bf6fd44eaaeb4084abb1cf0f6.jpg?width=240&version=3BFA2130432D79483B0300179405F810&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "film-och-samtal-the-broken-landlord-zugurt-aga-med-erdal-ozyagcilar"
+  },
+  {
+    "ncgId": "NCG176847",
+    "title": "Flatliners",
+    "releaseDate": "2017-11-03T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/451d3b2c96264e8caa3b692a7e84cff5.jpg?width=240&version=7987E973BB7B1EB2F24B54A20DA9D5D3&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "flatliners"
+  },
+  {
+    "ncgId": "NCG631413",
+    "title": "Geostorm",
+    "releaseDate": "2017-10-20T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/040151dbf6f94d5187e06ff8f1b7dee4.jpg?width=240&version=89CCCC3DEF3DCDE2BC8C6B7B688B28A1&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "geostorm"
+  },
+  {
+    "ncgId": "NCG294617",
+    "title": "Girls Trip",
+    "releaseDate": "2017-09-29T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/9d099689d60443adb194c6044669292a.jpg?width=240&version=3F01C919E01E191231AB1283C64073AA&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "girls-trip"
+  },
+  {
+    "ncgId": "NCG660813",
+    "title": "Good Time",
+    "releaseDate": "2017-09-08T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/994edc63349f4c54a2e70f9638629d55.jpg?width=240&version=EFD7B04EF4C06894CB7ABA551CB16BBB&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "good-time"
+  },
+  {
+    "ncgId": "NCG536131",
+    "title": "Gordon & Paddy",
+    "releaseDate": "2017-12-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/e5647607a7974d5e894f14d7f7f816c6.jpg?width=240&version=AEED872F11C1D481BCB1F5BCB1EA42EA&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "gordon-paddy"
+  },
+  {
+    "ncgId": "NCG839624",
+    "title": "Guldfeber - Klassiker",
+    "releaseDate": "2017-12-22T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/c1e8cb01633f43fea41d38c23510bc9e.jpg?width=240&version=FE97E56DC6823D54F78C80F68FFA8449&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "guldfeber-klassiker"
+  },
+  {
+    "ncgId": "NCG734356",
+    "title": "Hamlet - Teater Galeasen",
+    "releaseDate": "2017-10-18T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/acf2befd01f14db7a8e65aac212f7e02.jpg?width=240&version=5B8125B46EF642DE084754B47FF07DC0&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "hamlet-teater-galeasen"
+  },
+  {
+    "ncgId": "NCG663705",
+    "title": "Happy Death Day",
+    "releaseDate": "2017-10-20T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/1e027eb651b14d68ac097bfa469a0a26.jpg?width=240&version=27DFC50FBADDC946A0EC95A5AC86B864&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "happy-death-day"
+  },
+  {
+    "ncgId": "NCG624642",
+    "title": "Herr och fru Adelman",
+    "releaseDate": "2017-10-20T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/858a484610154dfa91da8d272629cd67.jpg?width=240&version=6F4AD36D0FA0070D9C7C981AA9B1CCB5&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "herr-och-fru-adelman"
+  },
+  {
+    "ncgId": "NCG591883",
+    "title": "Hiss till galgen - Klassiker",
+    "releaseDate": "2017-10-17T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/81aebc8c71f646d4a6e7ff86c8c88279.jpg?width=240&version=3C780BAB482DC7956CF670580D884535&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "hiss-till-galgen-klassiker"
+  },
+  {
+    "ncgId": "NCG786947",
+    "title": "Hockney - Landscape, portraits and still life",
+    "releaseDate": "2017-10-16T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/9c326ad9fc044e76a45d6a98c81b1847.jpg?width=240&version=69DB2CA2CC6ABB605C9EBCF2CEA3353A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "hockney-landscape-portraits-and-still-life"
+  },
+  {
+    "ncgId": "NCG684149",
+    "title": "Home Again - Kärleken flyttar in",
+    "releaseDate": "2017-10-13T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/6006a317af694edd97453de1405c1c90.jpg?width=240&version=E1C900D0EDC6EEAE45418F2D21C40175&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "home-again-karleken-flyttar-in"
+  },
+  {
+    "ncgId": "NCG760791",
+    "title": "I morgon börjar allt",
+    "releaseDate": "2017-08-04T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/2a0bbeb3b25e4c7599c380795d834c52.jpg?width=240&version=96AC751AA3D17C4444AA98C240296293&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "i-morgon-borjar-allt"
+  },
+  {
+    "ncgId": "NCG800955",
+    "title": "Jakten på den försvunna skatten - Klassiker",
+    "releaseDate": "2017-10-03T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a7799dc237814783949a4e5bdc98288f.jpg?width=240&version=B3E48F1B456AFA9F7CAF23144E97BF12&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "jakten-pa-den-forsvunna-skatten-klassiker"
+  },
+  {
+    "ncgId": "NCG323249",
+    "title": "Jigsaw",
+    "releaseDate": "2017-10-27T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/2c2b6b2c8d784a5abb3a9c9eeb961407.jpg?width=240&version=19614E55D57C4ED2E53CD70098319FBD&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "jigsaw"
+  },
+  {
+    "ncgId": "NCG494300",
+    "title": "Judwaa 2 - Bollywood",
+    "releaseDate": "2017-09-29T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/9d0c55db7ebd4cadba8cef3c8dea38fd.jpg?width=240&version=8736E4B46DE795EDC1ECAB90A5B550C3&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "judwaa-2-bollywood"
+  },
+  {
+    "ncgId": "NCG282536",
+    "title": "Jumanji",
+    "releaseDate": "2017-12-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/3f926197712042eaae86b0152af38854.jpg?width=240&version=FC857DEFE2A17313CBDC05ED03FA1663&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "jumanji"
+  },
+  {
+    "ncgId": "NCG632610",
+    "title": "Justice League",
+    "releaseDate": "2017-11-15T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d1e5be762db040829120bb53df8857af.jpg?width=240&version=506D739FAFE70CAE20CD1E9CA6F1EB01&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "justice-league"
+  },
+  {
+    "ncgId": "NCG594716",
+    "title": "Kedi",
+    "releaseDate": "2017-08-04T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/61ae254d668b4a188a99dd3742ed8c6f.jpg?width=240&version=458176B8C735F814C13B231A290575A4&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "kedi"
+  },
+  {
+    "ncgId": "NCG758256",
+    "title": "Kingsman: The Golden Circle",
+    "releaseDate": "2017-09-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/ae83df6c0bdc4904ae547bd4673ee07c.jpg?width=240&version=6A9C2632CF9BBD3CD9D8E88C8EA3BF6E&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "kingsman-the-golden-circle"
+  },
+  {
+    "ncgId": "NCG241781",
+    "title": "Klas Klättermus och de andra djuren i Hackebackeskogen",
+    "releaseDate": "2017-04-07T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/02e3fa134c5a4118a90f91f2a567a07a.jpg?width=240&version=9E9D629D1A67B741BE1641AC51449753&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "klas-klattermus-och-de-andra-djuren-i-hackebackeskogen"
+  },
+  {
+    "ncgId": "NCG893345",
+    "title": "Korparna",
+    "releaseDate": "2017-10-13T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a54e9f927af54b93a9f805629e8e3e8b.jpg?width=240&version=8B7933180D1E5759BA438518EB3E5572&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "korparna"
+  },
+  {
+    "ncgId": "NCG173946",
+    "title": "Krig",
+    "releaseDate": "2017-10-27T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/88f9feb02ab04b438f38d166db108aac.jpg?width=240&version=022F619FD828602A880E85EC4682C73A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "krig"
+  },
+  {
+    "ncgId": "NCG383917",
+    "title": "Kärleksdrycken - MET Operan",
+    "releaseDate": "2018-02-10T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/342eae18221b478aaa768784199a9a79.jpg?width=240&version=E81F187760AAB99FF05A3DEE1061FE8E&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "karleksdrycken-met-operan"
+  },
+  {
+    "ncgId": "NCG705611",
+    "title": "La Bohème - MET Operan",
+    "releaseDate": "2018-02-24T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/81a17cec2574441f85a7a6e4100f8849.jpg?width=240&version=6750BD5FA0538C3618618B0C0C78A75E&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "la-boheme-met-operan"
+  },
+  {
+    "ncgId": "NCG879155",
+    "title": "La Bohème - Opera från Royal Opera House (Inspelad)",
+    "releaseDate": "2017-10-09T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/5fe57a31034e4c379c3758ff80c08fee.jpg?width=240&version=5A7A1E2667AEC97950C1E6F2AC2B8987&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "la-boheme-opera-fran-royal-opera-house-inspelad"
+  },
+  {
+    "ncgId": "NCG331996",
+    "title": "La Bohème - Opera från Royal Opera House (Live)",
+    "releaseDate": "2017-10-03T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/2c9a090dc24c49bdbd3a91e6aaf71e29.jpg?width=240&version=5A7A1E2667AEC97950C1E6F2AC2B8987&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "la-boheme-opera-fran-royal-opera-house-live"
+  },
+  {
+    "ncgId": "NCG237547",
+    "title": "Lady M",
+    "releaseDate": "2017-09-08T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/cea71d7875614330a0a58c2685e2bb5e.jpg?width=240&version=6810661FC142B9D70CECDD2CF4A3DDA5&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "lady-m"
+  },
+  {
+    "ncgId": "NCG802358",
+    "title": "Loving Vincent",
+    "releaseDate": "2017-10-20T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/2889f45970234295ac84f11495cebe5e.jpg?width=240&version=7D18B3ECB00ADF3A2FC6B612D2DAB45C&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "loving-vincent"
+  },
+  {
+    "ncgId": "NCG463632",
+    "title": "Lucky",
+    "releaseDate": "2017-10-27T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/e657966947384ef98d69c89f30aaea29.jpg?width=240&version=208E754AAD2D36FBB83B44533E12EC0E&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "lucky"
+  },
+  {
+    "ncgId": "NCG938785",
+    "title": "Luisa Miller - MET Operan",
+    "releaseDate": "2018-04-14T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/63822165c0cf4c9c9aa4424fc041347d.jpg?width=240&version=38FE897A78780ED1D4EAF3D7FF358869&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "luisa-miller-met-operan"
+  },
+  {
+    "ncgId": "NCG909598",
+    "title": "Macbeth - Opera från Royal Opera House (Inspelad)",
+    "releaseDate": "2018-04-09T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/588abad7c2794b43945732521475d2d9.jpg?width=240&version=CF9DA24291CFCA15AF8A0264349CEB09&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "macbeth-opera-fran-royal-opera-house-inspelad"
+  },
+  {
+    "ncgId": "NCG441778",
+    "title": "Macbeth - Opera från Royal Opera House (Live)",
+    "releaseDate": "2018-04-04T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/f2febb20b1a8434da682ef033b2dc21f.jpg?width=240&version=CF9DA24291CFCA15AF8A0264349CEB09&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "macbeth-opera-fran-royal-opera-house-live"
+  },
+  {
+    "ncgId": "NCG794840",
+    "title": "Matisse",
+    "releaseDate": "2017-11-13T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/6376f286c71b44a8936aefec10cbdea3.jpg?width=240&version=64A51A55481FB0D2986BE53875B964BC&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "matisse"
+  },
+  {
+    "ncgId": "NCG461551",
+    "title": "Milo - Månvaktaren",
+    "releaseDate": "2017-05-19T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/80e14ebe8ba74ea6809c668a2a6ba675.jpg?width=240&version=8B152B81828A195EB49D81E34B30EF0A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "milo-manvaktaren"
+  },
+  {
+    "ncgId": "NCG460214",
+    "title": "Mordet på Orientexpressen",
+    "releaseDate": "2017-11-24T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/5d3ce7ec64b8494b9ef9c749dba7414e.jpg?width=240&version=10A2492B1FE22C7410A74A28B8A29EBE&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "mordet-pa-orientexpressen"
+  },
+  {
+    "ncgId": "NCG191642",
+    "title": "Mother!",
+    "releaseDate": "2017-09-29T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d2e8e6d120644f62b394489bf3c62bd1.jpg?width=240&version=74129E1F893CD40B721C12E4CB74F8C8&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "mother"
+  },
+  {
+    "ncgId": "NCG800199",
+    "title": "My Little Pony: The Movie",
+    "releaseDate": "2017-10-20T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/4f4a3fd2f42a45dcb4b7d57de923bbc1.jpg?width=240&version=D7FA6F34742B8AFC01CBE0409110A09C&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "my-little-pony-the-movie"
+  },
+  {
+    "ncgId": "NCG794516",
+    "title": "Märta Proppmätt",
+    "releaseDate": "2017-09-23T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/37be02f7c21146ceb55d92048cbb276f.jpg?width=240&version=54FD0F73FB062B6FF6788522DC043286&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "marta-proppmatt"
+  },
+  {
+    "ncgId": "NCG156064",
+    "title": "Neruda",
+    "releaseDate": "2017-09-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/082e24dd629640fcb3551f3a28cc93ee.jpg?width=240&version=A5C5ABBB3B3262E783A5B84A7122533F&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "neruda"
+  },
+  {
+    "ncgId": "NCG675927",
+    "title": "Norma - MET Operan",
+    "releaseDate": "2017-10-07T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/82d409c904164f5f829b534a2b188c2b.jpg?width=240&version=779022667B426BE34C9E69B222025B80&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "norma-met-operan"
+  },
+  {
+    "ncgId": "NCG729604",
+    "title": "Nötknäpparen - Balett från Royal Ballet (Inspelad)",
+    "releaseDate": "2017-12-11T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/1a412da080f745e49ab8a61ff322f1d4.jpg?width=240&version=D01DF16BE680E0995968EB6F717A66EC&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "notknapparen-balett-fran-royal-ballet-inspelad"
+  },
+  {
+    "ncgId": "NCG974191",
+    "title": "Nötknäpparen - Balett från Royal Ballet (Live)",
+    "releaseDate": "2017-12-05T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/646c91079f014d498c3db472e7909b05.jpg?width=240&version=D01DF16BE680E0995968EB6F717A66EC&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "notknapparen-balett-fran-royal-ballet-live"
+  },
+  {
+    "ncgId": "NCG918803",
+    "title": "Om själ och kropp",
+    "releaseDate": "2017-09-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/256fae50d23f444a9fe4a1b95655c5d3.jpg?width=240&version=06828CE56ADF5536BE195C793ACB7EDD&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "om-sjal-och-kropp"
+  },
+  {
+    "ncgId": "NCG709168",
+    "title": "On the Milky Road",
+    "releaseDate": "2017-09-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/050c7f6a3d294f7eaa6ff64ac641db82.jpg?width=240&version=AD7F12E5D5B4B621A8C239C93FD63745&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "on-the-milky-road"
+  },
+  {
+    "ncgId": "NCG309098",
+    "title": "Ouaga Girls",
+    "releaseDate": "2017-08-25T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/9fbbc8834a514b15a44e01e706594732.jpg?width=240&version=C0FD156F9CA6BCB1D26408C9F211CF6D&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "ouaga-girls"
+  },
+  {
+    "ncgId": "NCG477080",
+    "title": "Paddington 2",
+    "releaseDate": "2017-11-10T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a97221acc6a84f10a30adef2e4490d85.jpg?width=240&version=F9F33F888D1893C940BBD53BD0642DA3&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "paddington-2"
+  },
+  {
+    "ncgId": "NCG303220",
+    "title": "Pirates of the Caribbean: Salazar's Revenge",
+    "releaseDate": "2017-05-24T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/265b8e99614e49fbbd068f1eb2a286d2.jpg?width=240&version=0FF0D7023ECFD3F7571F336655CEA4B7&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "pirates-of-the-caribbean-salazars-revenge"
+  },
+  {
+    "ncgId": "NCG121285",
+    "title": "Pitch Perfect 3",
+    "releaseDate": "2018-01-05T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/3a9004c1a25b4d759b8db9e7d1837f73.jpg?width=240&version=D5D0322B20E3A791F0866C1018238575&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "pitch-perfect-3"
+  },
+  {
+    "ncgId": "NCG659033",
+    "title": "Ready Player One",
+    "releaseDate": "2018-03-30T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/2eaaffcdddf6484f87c24c9af7766722.jpg?width=240&version=F4D8903F58729984D1B183251EB9E41A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "ready-player-one"
+  },
+  {
+    "ncgId": "NCG288737",
+    "title": "Rigoletto - Opera från Royal Opera House (Inspelad)",
+    "releaseDate": "2018-01-22T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/9567466c2d50448082e420a4e35e1311.jpg?width=240&version=E21C9C2B2BF0354E2FFFE14AA11F8C86&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "rigoletto-opera-fran-royal-opera-house-inspelad"
+  },
+  {
+    "ncgId": "NCG279032",
+    "title": "Rigoletto - Opera från Royal Opera House (Live)",
+    "releaseDate": "2018-01-16T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/cd040be3d1bd4681b365677e64c7e50f.jpg?width=240&version=E21C9C2B2BF0354E2FFFE14AA11F8C86&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "rigoletto-opera-fran-royal-opera-house-live"
+  },
+  {
+    "ncgId": "NCG946518",
+    "title": "Rovdjuret - Klassiker",
+    "releaseDate": "2017-12-05T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/dbcee12134f146d0ab13fbabe7db3f60.jpg?width=240&version=EA19E6ED2E220FB349E3130EAB1DC979&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "rovdjuret-klassiker"
+  },
+  {
+    "ncgId": "NCG516356",
+    "title": "Sameblod",
+    "releaseDate": "2017-03-03T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/82ebeff439314678929fc989bc15f10c.jpg?width=240&version=EF5FB8522FDA6F3D1848EFDA95204AA1&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "sameblod"
+  },
+  {
+    "ncgId": "NCG699507",
+    "title": "Semiramis - MET Operan",
+    "releaseDate": "2018-03-10T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/13f48ee03780473781bbf63eb38a1aa1.jpg?width=240&version=B7E6E2BAD9F7E120D5B76D0D157ABFF8&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "semiramis-met-operan"
+  },
+  {
+    "ncgId": "NCG584918",
+    "title": "Silvana - Väck mig när ni vaknat",
+    "releaseDate": "2017-09-15T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/0eda43ef5c4642b59af9cb03680b6c22.jpg?width=240&version=3432E837B46AD78ECF5442A46BB3E3DF&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "silvana-vack-mig-nar-ni-vaknat"
+  },
+  {
+    "ncgId": "NCG927606",
+    "title": "Snömannen",
+    "releaseDate": "2017-10-13T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/8ea13560e8f74f5886eb9e0b758a36a3.jpg?width=240&version=D0547EE25A64BEDE906476758C60B4D8&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "snomannen"
+  },
+  {
+    "ncgId": "NCG639089",
+    "title": "Solsidan",
+    "releaseDate": "2017-12-01T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/da3d9f29a72b41409ab18c1a63536b29.jpg?width=240&version=73569676F4986D15F58B84B1FAFFCF7A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "solsidan"
+  },
+  {
+    "ncgId": "NCG786649",
+    "title": "Spider-Man: Homecoming",
+    "releaseDate": "2017-07-05T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/81c852e169e642789dcfe8b4f660f93a.jpg?width=240&version=773AF9F357A290F16587827DD2C61F41&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "spider-man-homecoming"
+  },
+  {
+    "ncgId": "NCG719743",
+    "title": "Star Wars: The Last Jedi",
+    "releaseDate": "2017-12-13T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/a1c6766c1fd647e890e91615867abecc.jpg?width=240&version=D6ADF83C4872AE4DC5EEFB57A8884765&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "star-wars-the-last-jedi"
+  },
+  {
+    "ncgId": "NCG604212",
+    "title": "Suburbicon",
+    "releaseDate": "2017-12-08T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/92b6273d4ce2403fb370ac4f28c818d9.jpg?width=240&version=59982FC32C2AB12740EB860E0B4EF902&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "suburbicon"
+  },
+  {
+    "ncgId": "NCG798549",
+    "title": "Superswede: En film om Ronnie Peterson",
+    "releaseDate": "2017-08-16T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/f1227a1daafb496297516fde86e6e523.jpg?width=240&version=29FA101BF0CE6C116F86805F8C09F920&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "superswede-en-film-om-ronnie-peterson"
+  },
+  {
+    "ncgId": "NCG380760",
+    "title": "Suspiria: Flykten från helvetet - Klassiker",
+    "releaseDate": "2017-10-31T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/bcea9654d8d14c4798f3baab3efd73c7.jpg?width=240&version=153E0A1367AFE2EBBED9D38433235829&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "suspiria-flykten-fran-helvetet-klassiker"
+  },
+  {
+    "ncgId": "NCG738772",
+    "title": "Svansjön - Balett från Royal Opera House (Inspelad)",
+    "releaseDate": "2018-06-18T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/5cfc7861c20843eea44761d77c212bff.jpg?width=240&version=71823FBF1F2425AD7AA0A2F2074244DC&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "svansjon-balett-fran-royal-opera-house-inspelad"
+  },
+  {
+    "ncgId": "NCG102562",
+    "title": "Svansjön - Balett från Royal Opera House (Live)",
+    "releaseDate": "2018-06-12T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/ed3db766f20b41408fb624ebf4e7c297.jpg?width=240&version=71823FBF1F2425AD7AA0A2F2074244DC&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "svansjon-balett-fran-royal-opera-house-live"
+  },
+  {
+    "ncgId": "NCG168650",
+    "title": "The Big Sick",
+    "releaseDate": "2017-09-15T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/082bc2aa4b514db281cce27b2b9a714d.jpg?width=240&version=0F36ECB40C960849D0DFFC5330FABB31&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-big-sick"
+  },
+  {
+    "ncgId": "NCG842825",
+    "title": "The Children of Vank",
+    "releaseDate": "2016-05-05T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/80075e4291604f5dbdbef4dc86f347bc.jpg?width=240&version=227C27F73C292E8DD4B8B7E09A7C9C19&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-children-of-vank"
+  },
+  {
+    "ncgId": "NCG666813",
+    "title": "The Emoji Movie",
+    "releaseDate": "2017-08-09T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/104a1815845c4a10846492ac409a6288.jpg?width=240&version=50ECAFD6099ABCAA7B29340008749398&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-emoji-movie"
+  },
+  {
+    "ncgId": "NCG131911",
+    "title": "The Greatest Showman",
+    "releaseDate": "2017-12-25T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/b9a74edcde7349d6a848d433b0ba4ed2.jpg?width=240&version=8725BD09A53951EF6B14816B5430B44A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-greatest-showman"
+  },
+  {
+    "ncgId": "NCG389739",
+    "title": "The Hitmans Bodyguard",
+    "releaseDate": "2017-08-18T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/92ff71f89eaa4c5dba137f39a46498a3.jpg?width=240&version=E340C637EB06305473CFC8CCBD260249&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-hitmans-bodyguard"
+  },
+  {
+    "ncgId": "NCG478934",
+    "title": "The Killing of a Sacred Deer",
+    "releaseDate": "2017-11-10T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/06428909e5964e2cb8d7fc597997bc10.jpg?width=240&version=B64D555E50CD2BCFE00284E1083D4371&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-killing-of-a-sacred-deer"
+  },
+  {
+    "ncgId": "NCG990369",
+    "title": "The Lego Ninjago Movie",
+    "releaseDate": "2017-09-22T00:00:00",
+    "rating": {
+      "age": 7,
+      "ageAcompanied": 0,
+      "alias": "7",
+      "displayName": "7 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d991a405741f425fa6fe462e8277424b.jpg?width=240&version=788CA97207E3EC7D633ED3651C286611&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-lego-ninjago-movie"
+  },
+  {
+    "ncgId": "NCG512073",
+    "title": "The Mountain Between Us",
+    "releaseDate": "2018-03-09T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/250db9f6360946df9467f4b89684a752.jpg?width=240&version=F01AE0E746CCF5503A1DAF93B148A8B2&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-mountain-between-us"
+  },
+  {
+    "ncgId": "NCG499274",
+    "title": "The Nile Hilton Incident",
+    "releaseDate": "2017-09-29T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/7271d716676c4e0b9c87711291ca0afb.jpg?width=240&version=B936D7610DD5C050ECCAADB8EFE7DD8A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-nile-hilton-incident"
+  },
+  {
+    "ncgId": "NCG472345",
+    "title": "The Shining - Klassiker",
+    "releaseDate": "2017-10-31T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/0976746880d641e7983be2d610a053dc.jpg?width=240&version=D812672D7263B2B23605CCC2CC2458A1&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-shining-klassiker"
+  },
+  {
+    "ncgId": "NCG889745",
+    "title": "The Square",
+    "releaseDate": "2017-08-25T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/692650879ead40bcb077a0c67cf66b98.jpg?width=240&version=1E8952A9CB97E2FD0D4FDA58E2E37923&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-square"
+  },
+  {
+    "ncgId": "NCG557168",
+    "title": "The Trip to Spain",
+    "releaseDate": "2017-08-11T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/3ca4cca6750743d7a800f0fb3a7c6d32.jpg?width=240&version=8F084BD76800677A4F60DE74185ADF7F&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "the-trip-to-spain"
+  },
+  {
+    "ncgId": "NCG853128",
+    "title": "Thor: Ragnarök",
+    "releaseDate": "2017-10-27T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/91ae6647b708459bb5f1d6f4f8a5b3bf.jpg?width=240&version=F1C991807E4EE34100BF8F0D6EFAFB67&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "thor-ragnarok"
+  },
+  {
+    "ncgId": "NCG612015",
+    "title": "Tillbaka till Montauk",
+    "releaseDate": "2017-09-15T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/2248391eee0d48538176cd7569e6218f.jpg?width=240&version=CDF08F53220F106D943CC3443770869D&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "tillbaka-till-montauk"
+  },
+  {
+    "ncgId": "NCG731028",
+    "title": "Tjuren Ferdinand",
+    "releaseDate": "2017-12-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/959883117fd6475b904d018cd8793de3.jpg?width=240&version=A9C122DFD6ECE302EABED901669C9F7A&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "tjuren-ferdinand"
+  },
+  {
+    "ncgId": "NCG495336",
+    "title": "Tomb Raider",
+    "releaseDate": "2018-03-16T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/2b5845b640494c32a51b741cae4d5344.jpg?width=240&version=D4985F0B0E9D7CF8DDDDE5CC7590DA48&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "tomb-raider"
+  },
+  {
+    "ncgId": "NCG216347",
+    "title": "Tosca - MET Operan",
+    "releaseDate": "2018-01-27T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/e8748ad80bbc4b2e86cb286793ad1c8c.jpg?width=240&version=6B7D8F0CF0BAEEBC225C1F0645D42CA1&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "tosca-met-operan"
+  },
+  {
+    "ncgId": "NCG491168",
+    "title": "Tosca - Opera från Royal Opera House (Inspelad)",
+    "releaseDate": "2018-02-12T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/bec8d12cb1a64f47a71d24375fba61a6.jpg?width=240&version=3106266B1803DB8C17F2BAF9DB8D337D&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "tosca-opera-fran-royal-opera-house-inspelad"
+  },
+  {
+    "ncgId": "NCG607155",
+    "title": "Tosca - Opera från Royal Opera House (Live)",
+    "releaseDate": "2018-02-07T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d7808ead092f488ca4ea791843588b21.jpg?width=240&version=3106266B1803DB8C17F2BAF9DB8D337D&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "tosca-opera-fran-royal-opera-house-live"
+  },
+  {
+    "ncgId": "NCG548576",
+    "title": "Tulpanfeber",
+    "releaseDate": "2017-07-14T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/b462c992b3e44bbab94fb503a55598ca.jpg?width=240&version=A27849087C221BC1AF787E9E93C2DE92&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "tulpanfeber"
+  },
+  {
+    "ncgId": "NCG701056",
+    "title": "Vad döljer du för mig?",
+    "releaseDate": "2017-05-05T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/7c76c738dc0c438ea7255ac57c7d77d6.jpg?width=240&version=42CFB5CFAE386A7C892ED3A3E1BD22CC&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "vad-doljer-du-for-mig"
+  },
+  {
+    "ncgId": "NCG669134",
+    "title": "Valerian and the City of a Thousand Planets",
+    "releaseDate": "2017-08-02T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/e6ed53e0d6ef4cf093e0f822c3b9f635.jpg?width=240&version=B5B74184A6C0990BB915C80E83533119&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "valerian-and-the-city-of-a-thousand-planets"
+  },
+  {
+    "ncgId": "NCG320597",
+    "title": "Verónica",
+    "releaseDate": "2017-09-22T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 12,
+      "alias": "15",
+      "displayName": "15 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/024fec83d3b54fc7a5ca763aee5c47ca.jpg?width=240&version=5A194B54D1441FCC9EE6C3F3283E8EB9&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "veronica"
+  },
+  {
+    "ncgId": "NCG735749",
+    "title": "Victoria & Abdul",
+    "releaseDate": "2017-09-22T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/475c695961b2475a90e6fb8d06dcaa2c.jpg?width=240&version=6428CD250F09141C9C59D56DB5EA06C9&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "victoria-abdul"
+  },
+  {
+    "ncgId": "NCG228082",
+    "title": "Villebråd",
+    "releaseDate": "2017-09-29T00:00:00",
+    "rating": {
+      "age": 15,
+      "ageAcompanied": 15,
+      "alias": "EJ",
+      "displayName": "Ej granskad"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/8a0b4f28fba04b88aad49c1ea28b5cda.jpg?width=240&version=6821E69798A8A4D18D316E4AC94D0615&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "villebrad"
+  },
+  {
+    "ncgId": "NCG245134",
+    "title": "Winnerbäck - Exklusiv smygpremiär",
+    "releaseDate": "2017-10-04T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/522a4054e4ea4b83bae1fe7f9581400b.jpg?width=240&version=477F68210C4EC1F031CA5BD593B94515&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "winnerback-exklusiv-smygpremiar"
+  },
+  {
+    "ncgId": "NCG834237",
+    "title": "Winnerbäck - Smygpremiär",
+    "releaseDate": "2017-10-04T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/5f050fbfa4a244d3a25c87242bf8d14d.jpg?width=240&version=477F68210C4EC1F031CA5BD593B94515&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "winnerback-smygpremiar"
+  },
+  {
+    "ncgId": "NCG926593",
+    "title": "Wonder Woman",
+    "releaseDate": "2017-06-02T00:00:00",
+    "rating": {
+      "age": 11,
+      "ageAcompanied": 7,
+      "alias": "11",
+      "displayName": "11 år"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/fd0d838fb74c4d549e64f094012a2de7.jpg?width=240&version=4E272CEA155BA442927F1D8EAD5039E0&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "wonder-woman"
+  },
+  {
+    "ncgId": "NCG540201",
+    "title": "Vår vingård i Bourgogne",
+    "releaseDate": "2017-09-22T00:00:00",
+    "rating": {
+      "age": 0,
+      "ageAcompanied": 0,
+      "alias": "0",
+      "displayName": "Barntillåten"
+    },
+    "posterUrl": "https://ncg-cdpweb-prod-catalogapp-cdn1.azureedge.net/images/ncg-images/d12ddbf2718648128a4e0ef0ad0d2b24.jpg?width=240&version=A72A3EE3EA96AC9C419E0B149CEFD5C1&format=webp",
+    "badge": "",
+    "isNew": false,
+    "isUpcoming": false,
+    "slug": "var-vingard-i-bourgogne"
+  }
+]

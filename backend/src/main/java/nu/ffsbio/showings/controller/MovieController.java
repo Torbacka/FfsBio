@@ -34,19 +34,23 @@ public class MovieController {
     public Iterable<Movie> getReleasedMovies() {
         LocalDateTime now = LocalDateTime.now();
 
-        return StreamSupport.stream(movieRepository.findAll().spliterator(), false)
-                        .filter(movie -> movie.getReleaseDate().isBefore(now))
-                        .sorted(Comparator.comparing(Movie::getTitle, String::compareTo))
-                        .collect(Collectors.toList());
+        return StreamSupport.stream(movieRepository.findAll()
+                .spliterator(), false)
+                .filter(movie -> movie.getReleaseDate()
+                        .isBefore(now))
+                .sorted(Comparator.comparing(Movie::getTitle, String::compareTo))
+                .collect(Collectors.toList());
     }
 
     @RequestMapping(path = "/upcoming", method = RequestMethod.GET)
     public Iterable<Movie> getUpcomingMovies() {
         LocalDateTime now = LocalDateTime.now();
 
-        return StreamSupport.stream(movieRepository.findAll().spliterator(), false)
-                        .filter(movie -> movie.getReleaseDate().isAfter(now))
-                        .sorted(Comparator.comparing(Movie::getReleaseDate, LocalDateTime::compareTo))
-                        .collect(Collectors.toList());
+        return StreamSupport.stream(movieRepository.findAll()
+                .spliterator(), false)
+                .filter(movie -> movie.getReleaseDate()
+                        .isAfter(now))
+                .sorted(Comparator.comparing(Movie::getReleaseDate, LocalDateTime::compareTo))
+                .collect(Collectors.toList());
     }
 }

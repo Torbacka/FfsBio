@@ -17,8 +17,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
 @Component
-public class ImageDownloader {
-    private static Logger LOG = LoggerFactory.getLogger(ImageDownloader.class);
+class ImageDownloader {
+    private static final Logger LOG = LoggerFactory.getLogger(ImageDownloader.class);
 
     void download(String imageUrl, String filmName) {
         String filePath = "../frontend/src/assets/images/" + filmName;
@@ -29,9 +29,9 @@ public class ImageDownloader {
         URLConnection connection = null;
         try {
             URL url = new URL(imageUrl);
-            String USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36";
+            String userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36";
             connection = url.openConnection();
-            connection.setRequestProperty("User-Agent", USER_AGENT);
+            connection.setRequestProperty("User-Agent", userAgent);
         } catch (IOException e) {
             LOG.error("Error connection with: " + imageUrl, e);
         }
@@ -66,7 +66,7 @@ public class ImageDownloader {
         for (String fileName : fileNames) {
             File file = new File("images/" + fileName);
             if (!file.delete()) {
-                LOG.warn("Could not delete image: " + fileName);
+                LOG.warn("Could not delete image: %s", fileName);
             }
         }
     }
