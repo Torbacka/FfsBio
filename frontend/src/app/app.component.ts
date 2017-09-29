@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { MovieService } from "./movie.service";
 import { Movie } from "./movie";
-import { log } from "util";
 
 @Component({
   selector: 'app-root',
@@ -17,7 +16,6 @@ export class AppComponent implements OnInit {
 
   ngOnInit(): void {
     this.getReleasedMovies();
-
   }
 
   getReleasedMovies(): void {

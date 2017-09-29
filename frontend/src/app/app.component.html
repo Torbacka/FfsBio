@@ -1,8 +1,10 @@
-<div class="container"  class="container">
+<div class="container" class="container">
   <div class="grid">
     <div *ngFor="let movie of releasedMovies; let i = index" class="cell">
-      <img class="responsive-image " src="assets/images/{{movie.slug}}" alt="{{movie.title}}">
-      <span id="movie-title">{{movie.title}}</span>
+      <a href="https://www.sf.se/film/{{movie.ncgId}}/{{movie.slug}}">
+        <img class="responsive-image " src="assets/images/{{movie.slug}}" alt="{{movie.title}}"/>
+        <h4 class="movie-title">{{movie.title}}</h4>
+      </a>
     </div>
   </div>
 </div>
