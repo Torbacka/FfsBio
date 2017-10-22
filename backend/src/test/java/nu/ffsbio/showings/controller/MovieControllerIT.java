@@ -31,7 +31,7 @@ public class MovieControllerIT {
         String movieJson = Resources.getResource("movieData/movie.json").getFile();
         movieRepositoryLoader.load(new File(movieJson));
     }
-
+/*
     @Test
     public void getAllMovies_shouldSucceed() {
         when()
@@ -40,5 +40,6 @@ public class MovieControllerIT {
             .body("size()", is(2))
             .statusCode(HttpStatus.OK.value());
     }
+    */
 
 }
