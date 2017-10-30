@@ -1,0 +1,17 @@
+version: '3'
+services:
+  backend:
+    image: ffsbio-backend:latest
+    ports:
+      - "8080:8080"
+    volumes:
+      - /srv/docker/ffsbio/assets/images:/srv/data/assets/images
+    depends_on:
+      - frontend
+  frontend:
+    image: ffsbio-frontend:latest
+    ports:
+      - "4200:80"
+    volumes:
+      - /srv/docker/ffsbio/assets/images:/usr/share/nginx/html/assets/images
+
