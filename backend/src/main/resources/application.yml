@@ -1,2 +1,4 @@
 movie:
   domain: "localhost:8080"
+  imagePath: "/srv/data/assets/images/"
+

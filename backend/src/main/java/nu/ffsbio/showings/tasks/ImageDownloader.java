@@ -12,16 +12,24 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+import nu.ffsbio.showings.config.MovieConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component
 class ImageDownloader {
     private static final Logger LOG = LoggerFactory.getLogger(ImageDownloader.class);
+    private MovieConfig movieConfig;
+
+    @Autowired
+    public ImageDownloader(MovieConfig movieConfig) {
+        this.movieConfig = movieConfig;
+    }
 
     void download(String imageUrl, String filmName) {
-        String filePath = "../frontend/src/assets/images/" + filmName;
+        String filePath =  movieConfig.getImagePath() + filmName;
         File file = new File(filePath);
         if (file.exists()) {
             return;
@@ -53,7 +61,7 @@ class ImageDownloader {
 
     void deleteOldImages(Set<String> movieNames) {
         File imageFolder = new File("images");
-        //Get all movie files
+        //Get all movieConfig files
         File[] fileArray = imageFolder.listFiles(File::isFile);
         if (fileArray == null) {
             return;

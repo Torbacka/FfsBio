@@ -1,19 +1,28 @@
 package nu.ffsbio.showings.config;
 
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.scheduling.annotation.EnableScheduling;
 
 @Configuration
-@EnableScheduling
-@EnableAutoConfiguration
-@ConfigurationProperties(prefix="movie")
+@ConfigurationProperties("movie")
 public class MovieConfig {
+
     private String domain;
+    private String imagePath;
+
+    public void setDomain(String domain) {
+        this.domain = domain;
+    }
+
+    public void setImagePath(String imagePath) {
+        this.imagePath = imagePath;
+    }
 
     public String getDomain() {
         return domain;
     }
 
+    public String getImagePath() {
+        return imagePath;
+    }
 }
