@@ -1,4 +1,13 @@
+spring:
+  profiles:
+    active: "dev"
+movie:
+  domain: "localhost:8080"
+  imagePath: "frontend/src/assets/images/"
+
+---
+spring:
+  profiles: prod
 movie:
   domain: "localhost:8080"
   imagePath: "/srv/data/assets/images/"
-

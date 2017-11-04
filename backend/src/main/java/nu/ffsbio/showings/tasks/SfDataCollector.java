@@ -32,7 +32,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class SfDataCollector {
     private static final Logger LOG = LoggerFactory.getLogger(SfDataCollector.class);
-    private static final String SF_MOVIE_URL = "https://www.sf.se/api/v1/movies/category/All?Page=1&PageSize=1024&blockId=1592&CityAlias=SE&imageContentType=webp";
+    private static final String SF_MOVIE_URL = "https://www.sf.se/api/v1/movies/category/All?Page=1&PageSize=1024&blockId=1592&CityAlias=SE&imageContentType=jpeg";
     private static final Header USER_AGENT_HEADER = new BasicHeader("User-Agent", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 " +
             "(KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36");
 
@@ -72,7 +72,7 @@ public class SfDataCollector {
             LOG.error("Failed to parse json: ", e);
         }
         double initTimeSeconds = (System.currentTimeMillis() - startTime) / 1000.0;
-        LOG.info("Initialization finished in %s seconds", initTimeSeconds);
+        LOG.info("Initialization finished in {} seconds", initTimeSeconds);
     }
 
     private String getRepose(String url) {

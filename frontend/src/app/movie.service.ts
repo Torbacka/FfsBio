@@ -5,10 +5,11 @@ import { Headers, Http, Response } from '@angular/http';
 
 import 'rxjs/add/operator/toPromise';
 import { log } from "util";
+import {environment} from "../environments/environment";
 
 @Injectable()
 export class MovieService {
-  private moviesUrl = 'http://localhost:8080/v1/movies/released';
+  private moviesUrl = environment.movieUrl;
 
   constructor(private http: Http) { }
 
