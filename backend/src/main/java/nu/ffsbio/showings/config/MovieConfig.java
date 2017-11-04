@@ -9,6 +9,7 @@ public class MovieConfig {
 
     private String domain;
     private String imagePath;
+    private String sfUrl;
 
     public void setDomain(String domain) {
         this.domain = domain;
@@ -24,5 +25,13 @@ public class MovieConfig {
 
     public String getImagePath() {
         return imagePath;
+    }
+
+    public String getSfUrl() {
+        return sfUrl;
+    }
+
+    public void setSfUrl(String sfUrl) {
+        this.sfUrl = sfUrl;
     }
 }

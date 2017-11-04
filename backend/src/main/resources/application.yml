@@ -4,10 +4,11 @@ spring:
 movie:
   domain: "localhost:8080"
   imagePath: "frontend/src/assets/images/"
-
+  sfUrl: "https://www.sf.se/api/v1/movies/category/All?Page=1&PageSize=1024&blockId=1592&CityAlias=SE&imageContentType=jpeg"
 ---
 spring:
   profiles: prod
 movie:
   domain: "localhost:8080"
   imagePath: "/srv/data/assets/images/"
+  sfUrl: "https://www.sf.se/api/v1/movies/category/All?Page=1&PageSize=1024&blockId=1592&CityAlias=SE&imageContentType=jpeg"

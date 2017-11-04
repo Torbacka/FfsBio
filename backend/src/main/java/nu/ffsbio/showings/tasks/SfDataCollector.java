@@ -9,6 +9,7 @@ import java.util.stream.Collectors;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
+import nu.ffsbio.showings.config.MovieConfig;
 import nu.ffsbio.showings.model.internal.Movie;
 import nu.ffsbio.showings.model.sf.SfMovie;
 import nu.ffsbio.showings.repository.MovieRepository;
@@ -32,7 +33,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class SfDataCollector {
     private static final Logger LOG = LoggerFactory.getLogger(SfDataCollector.class);
-    private static final String SF_MOVIE_URL = "https://www.sf.se/api/v1/movies/category/All?Page=1&PageSize=1024&blockId=1592&CityAlias=SE&imageContentType=jpeg";
+    private MovieConfig movieConfig;
+    private String sfMovieUrl;
     private static final Header USER_AGENT_HEADER = new BasicHeader("User-Agent", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 " +
             "(KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36");
 
@@ -40,9 +42,11 @@ public class SfDataCollector {
     private final MovieRepository movieRepository;
 
     @Autowired
-    public SfDataCollector(final MovieRepository movieRepository, final ImageDownloader imageDownloader) {
+    public SfDataCollector(final MovieConfig movieConfig, final MovieRepository movieRepository, final ImageDownloader imageDownloader) {
         this.movieRepository = movieRepository;
         this.imageDownloader = imageDownloader;
+        this.movieConfig = movieConfig;
+        sfMovieUrl = movieConfig.getSfUrl();
     }
 
     @Scheduled(fixedRate = 1000 * 60 * 60 * 12)
@@ -53,7 +57,7 @@ public class SfDataCollector {
             //Cleanup all old entries
             movieRepository.deleteAll();
 
-            String repose = getRepose(SF_MOVIE_URL);
+            String repose = getRepose(sfMovieUrl);
             ObjectMapper objectMapper = new ObjectMapper();
             objectMapper.registerModule(new JavaTimeModule());
 
@@ -92,7 +96,7 @@ public class SfDataCollector {
                 body += statusLine;
             }
         } catch (IOException e) {
-            LOG.error("Error with retrieving data from: " + SF_MOVIE_URL, e);
+            LOG.error("Error with retrieving data from: " + sfMovieUrl, e);
         } finally {
             httpget.releaseConnection();
         }
