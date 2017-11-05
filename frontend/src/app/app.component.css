@@ -1,7 +1,14 @@
+nav-bar {
+  width:100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
 .container {
   margin: 0 auto;
   max-width: 1200px;
-  padding: 0 1rem;
+  padding: 4rem 1rem;
 }
 
 .responsive-image {

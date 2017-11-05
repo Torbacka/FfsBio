@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  movieUrl: 'https://ffsbio.nu/v1/movies/released'
+  releasedUrl: 'https://ffsbio.nu/v1/movies/released'
 };

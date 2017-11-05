@@ -5,5 +5,6 @@
 
 export const environment = {
   production: false,
-  movieUrl: 'http://localhost:8080/v1/movies/released'
+  releasedUrl: 'http://localhost:8080/v1/movies/released',
+  upcomingUrl: 'http://localhost:8080/v1/movies/upcoming'
 };

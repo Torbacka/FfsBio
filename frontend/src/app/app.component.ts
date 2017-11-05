@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { MovieService } from "./movie.service";
-import { Movie } from "./movie";
+import { MovieService } from "./movie/movie.service";
+import { Movie } from "./movie/movie";
+import {NavBarComponent} from "./nav-bar/nav-bar.component";
 
 @Component({
   selector: 'app-root',
@@ -12,13 +13,18 @@ export class AppComponent implements OnInit {
   constructor(private movieService: MovieService) { }
 
   releasedMovies: Movie[];
-  title = 'FfsBio';
+  upcomingMovies: Movie[];
 
   ngOnInit(): void {
     this.getReleasedMovies();
+    this.getUpcomingMovies();
   }
 
   getReleasedMovies(): void {
     this.movieService.getReleasedMovies().then(movies => this.releasedMovies = movies);
+  }
+
+  getUpcomingMovies(): void {
+    this.movieService.getUpcomingMovies().then(movies => this.upcomingMovies = movies)
   }
 }
